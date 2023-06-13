@@ -1,16 +1,17 @@
-# bmi_calculator_flutter
+# BMI Calculator App 💪
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+* A multi screen that calculates BMI with height and weight
 
-A new Flutter project.
+<br/>
 
-## Getting Started
+## 📷 Preview
+![bmi_calculator_preview](https://github.com/HyojunK/bmi_calculator_flutter/assets/26563226/2d2731a2-9b1d-4609-a326-f3f6c85a1976)
 
-This project is a starting point for a Flutter application.
+<br/>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 💡 What I've Learned
+* How to use themeData in flutter
+* A Difference between Final and Const
+* Creating custom widgets
+* How to use GestureDetector Widget to detect actions in screen
+* Making multi screen application with Routes and Navigator
